@@ -14,8 +14,8 @@
 ╚══██╔══╝╚══██╔══╝██╔══██╗██║
    ██║      ██║   ██████╔╝██║
    ██║      ██║   ██╔══██╗██║
-   ██║      ██║   ██║  ██║███████╗
-   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚══════╝
+      ██║      ██║   ██║  ██║███████╗
+      ╚═╝      ╚═╝   ╚═╝  ╚═╝╚══════╝
 
 ```
 
@@ -27,7 +27,7 @@
 
 [📄 Paper](https://arxiv.org/abs/2504.16084) &nbsp;·&nbsp;
 [🗂️ Official Repo](https://github.com/PRIME-RL/TTRL) &nbsp;·&nbsp;
-[📦 Models & Results]([YOUR_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/15KhUU7fQol3oq0lYpXanSqRQrHLgvLdW?usp=sharing)) &nbsp;·&nbsp;
+[📦 Models & Results]([YOUR_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/15KhUU7fQol3oq0lYpXanSqRQrHLgvLdW?usp=sharing)) &nbsp;·&nbsp.
 
 <br/>
 
