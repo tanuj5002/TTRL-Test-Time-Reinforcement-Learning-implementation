@@ -9,12 +9,14 @@
 <br/><br/>
 
 ```
+
 ████████╗████████╗██████╗ ██╗
 ╚══██╔══╝╚══██╔══╝██╔══██╗██║
    ██║      ██║   ██████╔╝██║
    ██║      ██║   ██╔══██╗██║
    ██║      ██║   ██║  ██║███████╗
    ╚═╝      ╚═╝   ╚═╝  ╚═╝╚══════╝
+
 ```
 
 # Test-Time Reinforcement Learning
@@ -25,8 +27,7 @@
 
 [📄 Paper](https://arxiv.org/abs/2504.16084) &nbsp;·&nbsp;
 [🗂️ Official Repo](https://github.com/PRIME-RL/TTRL) &nbsp;·&nbsp;
-[📦 Models & Results](YOUR_DRIVE_LINK_HERE) &nbsp;·&nbsp;
-[📊 W&B Logs](https://wandb.ai)
+[📦 Models & Results]([YOUR_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/15KhUU7fQol3oq0lYpXanSqRQrHLgvLdW?usp=sharing)) &nbsp;·&nbsp;
 
 <br/>
 
@@ -60,6 +61,7 @@
 ---
 
 ## ✨ Highlights
+Original Paper Results
 
 | Metric | Qwen2.5-Math-7B (Base) | Qwen2.5-Math-7B + TTRL | Improvement |
 |:-------|:----------------------:|:----------------------:|:-----------:|
@@ -90,7 +92,7 @@ TTRL/
 │   ├── grader.py                # symbolic + numeric equivalence
 │   └── cluster.py               # TTRLClusterCounter (math-aware majority voting)
 │
-├── 📁 MATH/                     # MATH-500 dataset (JSON + Parquet)
+├── 📁 MATH/                     # MATH dataset (JSON + Parquet)
 ├── 📁 AIME-TTT/                 # AIME 2024 dataset
 │
 ├── 📁 ttrl-grpo-output-*/       # Training checkpoints
@@ -429,6 +431,6 @@ If you use this implementation, please cite the original TTRL paper:
 
 <div align="center">
 
-Made with ❤️ | [⬆ Back to top](#test-time-reinforcement-learning)
+[⬆ Back to top](#test-time-reinforcement-learning)
 
 </div>
